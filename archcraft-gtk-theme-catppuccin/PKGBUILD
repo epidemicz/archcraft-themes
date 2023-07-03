@@ -2,7 +2,7 @@
 
 pkgname=archcraft-gtk-theme-catppuccin
 pkgver=1.0
-pkgrel=0
+pkgrel=1
 pkgdesc="Catppuccin gtk themes for Archcraft"
 url="https://github.com/archcraft-os/archcraft-themes"
 arch=('any')
