@@ -1601,15 +1601,6 @@ treeview.view {
   -GtkTreeView-expander-size: 16;
 }
 
-treeview.view:selected {
-  background-color: #323F4E;
-  background-image: image(#bd99ff);
-}
-
-treeview.view:hover, treeview.view:selected {
-  border-radius: 0;
-}
-
 treeview.view.separator {
   min-height: 5px;
   color: rgba(0,0,0,0);
